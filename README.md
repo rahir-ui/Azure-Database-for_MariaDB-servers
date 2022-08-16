@@ -1,1 +1,1 @@
-# Azure-Database-for_MariaDB-servers
+# Azure Database for MariaDB servers
